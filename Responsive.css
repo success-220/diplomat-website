@@ -57,6 +57,7 @@
 }
 
 
+
 @media only screen and (max-width:940px){
     .hero_section .hero_container{
         flex-direction: column;
@@ -169,7 +170,7 @@
     }
 
     .hero_swiper_container .slider_container .text_container{
-        top: 5%;
+        top: 38%;
         width: 80%;
     }
     .hero_swiper_container .slider_container .text_container .btn_container{
