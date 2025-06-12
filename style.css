@@ -308,7 +308,7 @@ header .close_btn .menu_btn{
     height: 100%;
     overflow: hidden;
 }
-.hero_container_2 .book_swiper_container .text_container h1{
+.hero_container_2 .book_swiper_container .text_container {
     font-size: 14px;
     padding: 10px 0;
     color: var(--primary-color);
